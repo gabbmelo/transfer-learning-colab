@@ -1,6 +1,3 @@
-# transfer-learning-colab
-cópia do repositório referenciado no desafio do bootcamp de machine learning
-
 **Projeto de *Transfer Learning* em Python**
 
 O projeto consiste em aplicar o método de *Transfer Learning* em uma
@@ -23,7 +20,3 @@ Observações: Neste projeto, você pode usar sua própria base de dados
 domésticos, etc), o exemplo de gatos e cachorros, pode ser substituído
 por duas outras classes do seu interesse. O Dataset criado em nosso
 projeto anterior, pode ser utilizado agora.
-
-O projeto deve ser enviado para o GitHub da DIO:
-https://github.com/digitalinnovationone.
-
